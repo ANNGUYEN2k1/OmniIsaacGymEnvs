@@ -1,0 +1,6 @@
+plastic_mold:
+    mold:
+        usd_path: 'omniverse://192.168.191.156/Maxi/data/Mold/plastic_mold.usd'
+        width: 0.062 # width of mold
+        height: 0.024  # height of mold
+        length: 0.094  # length of mold

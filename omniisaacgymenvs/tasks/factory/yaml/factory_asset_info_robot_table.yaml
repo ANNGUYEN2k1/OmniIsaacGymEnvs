@@ -1,0 +1,13 @@
+hand:
+  gripper:
+    hand_length: 0.0584  # distance from origin of hand to origin of finger
+    finger_length: 0.053671  # distance from origin of finger to bottom of fingerpad
+    fingerpad_length: 0.017608  # distance from top of inner surface of fingerpad to bottom of inner surface of fingerpad
+    hand_width_max: 0.080  # maximum opening width of hand
+  newhand:
+    thumb_length: 0.0584  # distance from origin of thumb to thumb tip
+    finger_length: 0.053671  # distance from origin of another finger to another fingertip
+
+table:
+  depth: 0.6  # depth of table
+  width: 1.0  # width of table

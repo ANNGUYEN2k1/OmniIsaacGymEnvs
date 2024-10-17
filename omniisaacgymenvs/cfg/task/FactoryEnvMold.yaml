@@ -1,0 +1,17 @@
+# See schema in factory_schema_config_env.py for descriptions of common parameters.
+
+defaults:
+  - _self_
+  - /factory_schema_config_env
+
+sim:
+  disable_robot_collisions: False
+  disable_mold_collisions: False
+  disable_contact_processing: False
+
+env:
+  env_name: 'FactoryEnvMold'
+  desired_subassemblies: ['plastic_mold']
+  mold_lateral_offset: 0.1
+  mold_density: 1240
+  mold_friction: 0.3

@@ -6,3 +6,4 @@ omniisaacgymenvs.egg-info/
 checkpoints
 omniisaacgymenvs/wandb
 .vscode
+.mypy_cache
